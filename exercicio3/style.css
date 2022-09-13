@@ -1,0 +1,27 @@
+button:hover{
+    color: white;
+    background-color: red;
+}
+
+button:active{
+    color: red;
+    background-color: pink;
+}
+
+button{
+    padding: 20px;
+}
+
+body{
+text-align: center;
+}
+
+div{
+    background-color: aquamarine;
+    width: 400px;
+    margin: auto;
+}
+
+span{
+    background-color: aqua;
+}
