@@ -1,3 +1,4 @@
+
 button:hover{
     color: white;
     background-color: red;
@@ -13,15 +14,15 @@ button{
 }
 
 body{
-text-align: center;
+    text-align: center;
 }
 
 div{
-    background-color: aquamarine;
+    background-color: aqua;
     width: 400px;
     margin: auto;
 }
 
 span{
-    background-color: aqua;
+    background-color: chocolate;
 }
