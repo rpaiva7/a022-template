@@ -16,6 +16,7 @@
     padding: 20px;
     background-color: #e8e4e6;
     margin: 10px;
+    position: relative;
   }
   
   section{
@@ -25,14 +26,33 @@
     padding: 20px;
     margin: 10px 0;
   }
+
+  section, footer{
+    text-align: center;
+  }
   
+  .cantodireito{
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+  }
+
+  .botaoverde:active{
+    background-color: green;
+  }
+
   nav{
     padding: 20px;
     background-color: white;
+    position: sticky;
+    top: 0px;
   }
-  
+
   footer{
     background-color: #abd1c6;
     padding: 20px;
-    text-align: center;
+  }
+
+  footer:hover{
+    background-color: yellow;
   }

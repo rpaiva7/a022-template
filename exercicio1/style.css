@@ -1,11 +1,12 @@
+
 h1, h2, h3, h4, h5, h6, p{
     color: orange;
-}
+}  /* Formato para aplicar a mesma regra para vários elementos, nesse caso a cor laranja, usando múltiplos seletores */
 
 .texto-com-background{
     background-color: yellow;
-}
+}  /* Formato para selecionar class do HTML */
 
 #texto-com-outra-cor{
     color: green;
-}
+}  /* Formato para selecionar id do HTML*/
